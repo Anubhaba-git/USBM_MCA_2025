@@ -94,7 +94,7 @@
 //   }
   
 // Ex:
-let char = 'a';
+let char = 'n';
 switch (char){
     case 'a':
         console.log(`It's a vowel`);
