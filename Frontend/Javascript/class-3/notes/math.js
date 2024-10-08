@@ -94,23 +94,22 @@
 //   }
   
 // Ex:
-// let char = 'a';
-
-// switch (char){
-//     case 'a':
-//         console.log(`It's a vowel`);
-//         break;//to break the flow
-//     case 'e':
-//         console.log(`It's a vowel`);
-//         break;
-//     case 'i':
-//         console.log(`It's a vowel`);
-//         break;
-//     case 'o':
-//         console.log(`It's a vowel`);
-//         break;
-//     case 'u':
-//         console.log(`It's a vowel`);
-//     default:
-//         console.log(`It's not a vowel`);
-// }
+let char = 'a';
+switch (char){
+    case 'a':
+        console.log(`It's a vowel`);
+        break;//to break the flow
+    case 'e':
+        console.log(`It's a vowel`);
+        break;
+    case 'i':
+        console.log(`It's a vowel`);
+        break;
+    case 'o':
+        console.log(`It's a vowel`);
+        break;
+    case 'u':
+        console.log(`It's a vowel`);
+    default:
+        console.log(`It's not a vowel`);
+}
