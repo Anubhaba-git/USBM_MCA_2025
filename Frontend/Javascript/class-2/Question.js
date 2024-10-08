@@ -14,7 +14,7 @@ let finalPrice = originalPrice-discount;
 console.log(`The final price after discount is`+finalPrice);
 
 //Q-3:calculates the total amount a customer needs to pay after adding sales tax to the product price
-let productPrice=600;
+let productPrice=600;//anu
 let salesTaxRate=0.08;
 let tax=productPrice*salesTaxRate;
 console.log(`total price:${productPrice+tax}`);
