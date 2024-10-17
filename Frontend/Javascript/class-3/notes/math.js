@@ -102,7 +102,7 @@ switch (char){
     case 'e':
         console.log(`It's a vowel`);
         break;
-    case 'i':
+    case 'i':cl
         console.log(`It's a vowel`);
         break;
     case 'o':
