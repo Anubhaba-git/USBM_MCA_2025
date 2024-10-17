@@ -77,3 +77,8 @@ console.log(date.getHours()); // 11
 console.log(date.getMinutes()); // 19
 console.log(date.getSeconds()); // 0
 console.log(date.getDay()); // 2 --> Tuesday
+
+
+// git add .
+// git commit -m "class-4 added"
+// git push origin main
