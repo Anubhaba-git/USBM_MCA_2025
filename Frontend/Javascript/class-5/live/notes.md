@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## What are Loops?
 
 - In programming, loops are used to execute a block of code repeatedly until a certain condition is met. They allow you to avoid repeating code and provide a way to perform repeated tasks efficiently.
@@ -13,3 +14,6 @@
 3. For Loop
 4. For-In Loop
 5. For-Of Loop
+=======
+
+>>>>>>> 13c91820300e9150aa84f98cee19558e997a5db3

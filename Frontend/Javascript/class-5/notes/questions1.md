@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Questions
 
 ## Exercise 1: Simple Calculator with a Loop
@@ -27,3 +28,6 @@
 ## Exercise 4: Login Attempt Limit
 
 - Allow the user 3 login attempts. If they fail 3 times, show a lockout message.
+=======
+
+>>>>>>> 13c91820300e9150aa84f98cee19558e997a5db3

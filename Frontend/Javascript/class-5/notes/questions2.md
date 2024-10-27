@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Tasks based on today class :
 
 - Q1. Write a program that calculates the sum of all digits of a given number using a loop.
@@ -48,3 +49,6 @@ Q5. *****
 
 - Q6. Floyd's Triangle:
   Print Floyd’s triangle using numbers:
+=======
+
+>>>>>>> 13c91820300e9150aa84f98cee19558e997a5db3
