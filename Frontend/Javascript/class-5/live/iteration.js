@@ -22,7 +22,7 @@
 
 // Ex: Print from 1 to 10;
 
-// let num = 1; // declartion
+// let num = 1; // declaration
 // console.log("Global:", num); // print 1
 
 // while (num <= 10) {
