@@ -44,9 +44,37 @@ let cities = ["Bhubaneswar","Cuttuck","Balesore","Jajpur","Bhadrak"]
 // console.log(cities);
 
 //unshift():
-console.log(cities);
-cities.unshift("Kendujhar");
-console.log(cities);
+// console.log(cities);
+// cities.unshift("Kendujhar");
+// console.log(cities);
 
 // TASK:
 // diff between push(),pop(),shift(),unshift() with defination and example.
+
+//Date- Oct 29 :
+
+// Array Methods:
+// Concatenation(Merge):
+// Ex:
+// let fruits = ["apple","orange","strawery"]
+// fruits = fruits.concat(["mango","dragon-fruit"]);
+// console.log(fruits);
+
+// ex:
+// let array = [1,2,3,4,5,6]
+// let newArray = array.slice(2,4);
+// console.log(newArray);
+
+const months = ['jan','march','apr','jun']
+months.splice(2,0,'dec');
+console.log(months)
+
+// const day = ['mon','wed','thu','fri']
+// day.splice(3,0,'gobinda');
+// console.log(day);
+
+const arr = [1,2,3,4]
+arr.forEach((val) =>{
+    console.log( val*2);
+})
+
